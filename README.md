@@ -1,7 +1,7 @@
 # Sematic-Segmentation-of-Solar-Panel-Image
 This project aims to accurately detect and segment defects in solar panels through deep learning techniques, utilizing the U-Net architecture with various high-performance backbones like ResNet34, VGG16, and InceptionV3. The primary objective is to enhance defect detection for practical applications in solar energy management.
 
-![Solar Panel](https://th.bing.com/th/id/OIP.Kp_RCyqKskHF0byhLxJ27AHaEK?rs=1&pid=ImgDetMain)
+![Solar Panel](https://images.takeshape.io/1f1d0876-be74-4b33-99c8-6ac93f1d70db/dev/34b0ddf2-dbd9-4945-bec0-858eacbf3410/hero-solar-close-up-cc-jake-haskell-2015.jpg?auto=compress%2Cformat&w=1200)
 
 
 ## Overview
